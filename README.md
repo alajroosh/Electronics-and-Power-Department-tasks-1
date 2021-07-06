@@ -7,10 +7,7 @@ The design contains
 - 5x potentiometer
 - 5x servo motor
 - 1x 6v battery
-part 1:
 
-
-part2 with the potentiometer:
 <br>
 ![image](https://user-images.githubusercontent.com/23351217/124531323-ee160780-de16-11eb-9965-4644f0bb7b9f.png)
 <br>
@@ -24,3 +21,8 @@ then i add the servo motors and wiring Up the servo motors
 <br>
 after run the code you can see the motors move with the potentiometer
 ![image](https://user-images.githubusercontent.com/23351217/124537278-443c7800-de22-11eb-9bcb-db72445a62e9.png)
+
+<br>
+for 90 degree rotation without the potentiometer we just change the code and remove the potentiometer
+<br>
+![image](https://user-images.githubusercontent.com/23351217/124538051-ad70bb00-de23-11eb-86d4-f172b18fbc2d.png)
