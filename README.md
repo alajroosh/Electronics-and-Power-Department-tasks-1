@@ -20,6 +20,7 @@ then i add the servo motors and wiring Up the servo motors
 ![image](https://user-images.githubusercontent.com/23351217/124532753-c7a59b80-de19-11eb-9bd6-8cdc958e9bfa.png)
 <br>
 after run the code you can see the motors move with the potentiometer
+<br>
 ![image](https://user-images.githubusercontent.com/23351217/124537278-443c7800-de22-11eb-9bcb-db72445a62e9.png)
 <br>
 
