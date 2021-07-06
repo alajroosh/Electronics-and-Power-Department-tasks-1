@@ -6,7 +6,7 @@ The design contains
 - 1x breadboard
 - 5x potentiometer
 - 5x servo motor
-- 1x 6v battery
+- 1x 4.5v battery
 
 <br/>
 
