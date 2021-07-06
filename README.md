@@ -7,10 +7,10 @@ The design contains
 - 5x potentiometer
 - 5x servo motor
 - 1x 6v battery
+part 1:
 
 
-
-the part with the potentiometer:
+part2 with the potentiometer:
 <br>
 ![image](https://user-images.githubusercontent.com/23351217/124531323-ee160780-de16-11eb-9965-4644f0bb7b9f.png)
 <br>
@@ -21,3 +21,6 @@ then connect the power for the potentiometer from the arduino and add the batter
 then i add the servo motors and wiring Up the servo motors 
 <br>
 ![image](https://user-images.githubusercontent.com/23351217/124532753-c7a59b80-de19-11eb-9bd6-8cdc958e9bfa.png)
+<br>
+after run the code you can see the motors move with the potentiometer
+![image](https://user-images.githubusercontent.com/23351217/124537278-443c7800-de22-11eb-9bcb-db72445a62e9.png)
