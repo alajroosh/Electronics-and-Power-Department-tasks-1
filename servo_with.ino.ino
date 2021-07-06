@@ -12,10 +12,10 @@ int val1,val2,val3,val4,val5;
 
 void setup() {
   myservo1.attach(8);
-  myservo1.attach(9);
-  myservo1.attach(10);
-  myservo1.attach(11);
-  myservo1.attach(12);
+  myservo2.attach(9);
+  myservo3.attach(10);
+  myservo4.attach(11);
+  myservo5.attach(12);
 }
 
 void loop() {
